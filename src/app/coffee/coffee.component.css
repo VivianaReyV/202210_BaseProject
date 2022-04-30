@@ -1,0 +1,20 @@
+.imageBanner {
+  width: 100%;
+  max-height: 500px;
+}
+
+.mainTit {
+  font-family: fantasy;
+  margin-top: 1%;
+}
+
+.table {
+  width: 70%;
+}
+
+.pFooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
